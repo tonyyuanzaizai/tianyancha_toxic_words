@@ -6,8 +6,8 @@ from aip import AipOcr
 import time
 #下面3个变量请自行更改
 APP_ID = '15144487'
-API_KEY = 'cmVNU5D3E08702DNaA11XIPq'
-SECRET_KEY = 'GQVQOTNLNC7l5IGMOL5tTSzcvLydBMQQ '
+API_KEY = ''
+SECRET_KEY = ' '
 aipOcr  = AipOcr(APP_ID, API_KEY, SECRET_KEY)
 
 # 读取图片
